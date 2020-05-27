@@ -1,0 +1,41 @@
+body{
+	font-size: 17px;
+}
+
+
+
+/*button*/
+.btn{
+	background:linear-gradient(to right,hsl(136, 65%, 51%), hsl(192, 70%, 51%));
+
+	border-radius:42px;
+	color: white;
+}
+.firstImg{
+	background-image: url("images/bg-intro-desktop.svg");
+}
+.start{
+
+padding: 10%;
+
+}
+h1{
+font-size:3rem;
+}
+p{
+	color: grey;
+}
+section{
+	padding: 5%;
+}
+
+h2{
+	padding: 3%;
+}
+
+.footer{
+	background-color:black;
+}
+.easy{
+	padding: 2%;
+}
